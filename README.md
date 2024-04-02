@@ -96,7 +96,7 @@ Nous pouvons maintenant lancer l'installateur nodogsplash à partir des sources 
 ```bash
 cd nodogsplash
 make
-sudo make install`
+sudo make install
 ```
 
 Pour la configuration nous avons souhaitez pouvoir mettre un système d'authentification avec username et mot de passe voici la configuration
