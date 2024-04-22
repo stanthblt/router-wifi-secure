@@ -1,3 +1,4 @@
+
 # Routeur Portable WiFi Sécurisé avec Raspberry Pi 🌐📡
 
 Bienvenue sur la page du projet de Routeur Portable WiFi Sécurisé utilisant Raspberry Pi 4. Ce projet vise à créer un point d'accès WiFi portable, sécurisé grâce à l'usage d'un VPN 🌐 et d'un portail captif pour la gestion des connexions 🔐. Idéal pour sécuriser vos connexions dans des environnements où la sécurité du réseau est une préoccupation, ce routeur est parfait pour les voyages 🚀, le travail à distance 🏡, ou tout simplement pour améliorer la sécurité de votre réseau domestique.
@@ -23,6 +24,7 @@ Bienvenue sur la page du projet de Routeur Portable WiFi Sécurisé utilisant Ra
 -   **RaspAP** 📶: Permet de configurer facilement le Raspberry Pi comme un point d'accès WiFi.
 -   **VPN** 🛡️: Pour sécuriser et chiffrer votre connexion Internet.
 -   **Nodogsplash** 🚪: Gère le portail captif, offrant une couche de sécurité supplémentaire.
+-   **Mariadb** 🗄️: Gère le stockage des identifiants et des mots de passe.
 -   **Scripts personnalisés** 📜: Scripts .sh pour la gestion des identifiants et mots de passe, avec chiffrement.
 
 ## Configuration 🛠️
