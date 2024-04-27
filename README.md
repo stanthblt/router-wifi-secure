@@ -68,7 +68,7 @@ Ensuite rendez-vous sur la page de configuration de raspap, il faut donc que vou
 
 ### 3. Configuration du VPN 🔐
 
-Configurez votre service VPN de choix sur le Raspberry Pi pour sécuriser toute la connexion Internet passant par le routeur. Voilà le lien de la doc raspap[doc raspap](https://docs.raspap.com/openvpn/) pour l'installation du VPN
+Configurez votre service VPN de choix sur le Raspberry Pi pour sécuriser toute la connexion Internet passant par le routeur. Voilà le lien de la [doc raspap](https://docs.raspap.com/openvpn/) pour l'installation du VPN
 
 ### 4. Installation et Configuration de Nodogsplash 🚪
 
